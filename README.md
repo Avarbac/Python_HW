@@ -17,7 +17,7 @@ books_scraper/
 ├── artifacts/
 │   └── books_data.txt        # результат парсинга: одна книга — одна строка JSON
 ├── notebooks/
-│   └── HW_03_python_ds.ipynb # ноутбук с решением и выводами ячеек
+│   └── Рамазанов З.Р_HW_03_python_ds.ipynb # ноутбук с решением
 ├── tests/
 │   └── test_scraper.py       # автотесты pytest
 ├── scraper.py                # основной скрипт
